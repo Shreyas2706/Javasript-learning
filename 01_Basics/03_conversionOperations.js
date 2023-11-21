@@ -9,3 +9,4 @@ console.log(valueInNumber)
 // "33" => 33 
 // "33abc" => NaN == not a number 
 // true => 1 ; false = > 0
+
